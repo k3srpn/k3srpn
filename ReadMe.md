@@ -61,7 +61,7 @@
 
 <h2 align="left">BOJ Score</h2><br/><br/>
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=k3srpn)](https://solved.ac/k3srpn)
 <img src="http://mazandi.herokuapp.com/api?handle=k3srpn&theme=warm"/>
 
   
