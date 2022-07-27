@@ -62,7 +62,7 @@
 <h2 align="left">BOJ Score</h2><br/><br/>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
-<img src="http://mazandi.herokuapp.com/api?handle=yaa0529&theme=warm"/>
+<img src="http://mazandi.herokuapp.com/api?handle=k3srpn&theme=warm"/>
 
   
 </div>
