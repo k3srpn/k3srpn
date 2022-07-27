@@ -32,7 +32,7 @@
   <h3>Cuckoo Sandbox Installation menual 작성 및 악성코드 분석 공부</h3>
   <div>
     - cuckoo sandbox 설치 메뉴얼 및 기본적인 사용방법과 ollydbg를 이용한 리버싱 분석 기초, PE구조, Splunk 메뉴얼을 레포트로 작성.
-    <a href="https://docs.google.com/document/d/1eKp1-VhynLuZwwrGqjoxXOTseb9v9czm/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download Report</a>
+    <a href="https://docs.google.com/document/d/131aYc575W0Unvhg8Qds-Wb5UwIS9Y3Iu/edit?usp=sharing&ouid=115730225653672714638&rtpof=true&sd=true">Download Report</a>
   </div>
   
   <h3>Implement forensics scenarios and demonstrate forensics</h3>
