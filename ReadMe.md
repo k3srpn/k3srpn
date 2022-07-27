@@ -1,17 +1,17 @@
 
 <header>
-  <h1 align="left">Hi! I'm Kim, Sang Hun. Nice to meet U. 😊</h1>
+  <h1 align="left">Hi! I'm Taewan Kim. Nice to meet U. 😊</h1>
   I like Cryptography, System Security, System Programming, Web Programing etc,,
 </header>
 <div align="center">
   
   <h2 align="left">Profile 🐤</h2>
   <div align="left">
-  🧔 NAME : KIM SANGHUN<br/>
-  🍼 Birth Date : 1997.05.29<br/>
+  🧔 NAME : KIM Taewan<br/>
+  🍼 Birth Date : 1997.12.13<br/>
   📔 University : Woosuk Univ.<br/>
   🖥️ Develop OS : Windows, Linux, Mac OS <br/>
-  💌 E-mail : schmid_@kakao.com<br/>
+  💌 E-mail : k3srpn@kakao.com<br/>
   </div>
 <h2 align="left">Tech Stack 🖋</h2>
   <h3>I can this tech !!!</h3><br/>
@@ -46,42 +46,19 @@
     content : 포렌식 시나리오를 직접 구상 후 시나리오에 사용될 서버와 망을 직접 구현하고 직접 침해사고와 포렌식을 시연한 것을 레포트로 작성. 
     <a href="https://docs.google.com/document/d/1mU_YX5jmlXo_c9D9ZjwsFSiOHPM9z_bK/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download Report</a>
   </div>
-  <h3>Title : Investigate Bluetooth Protocols</h3>
-  <div>
-    content : Bluetooth에서 가장 많이 사용하는 프로토콜 조사하여 문서로 작성.<br/>
-    <a href="https://docs.google.com/spreadsheets/d/1y9ovRLvTf1D0Wn3HSdwWGvKkzlFLjKFA/edit?usp=sharing&ouid=113065321955897239924&rtpof=true&sd=true">Download File</a>
-  </div>
-  <h3>Title : Study Android vulnerability analysis and countermeasures</h3>
-  <div>
-    content : Android의 알려진 취약점을 인지하고 대응방안을 학습하여 보고서로 작성.<br/>
-    <a href="https://drive.google.com/file/d/1S-IhbCHpwJ-FIImtk-3d_zweP2p42BU_/view?usp=sharing">Download Report</a>
-  </div>
+
   <br/>
     <div align="center">
     <h3>군복무 🐧</h3>
     <div>
-      복무기간 : 2020.08.24 ~ 2022.02.18<br/>
-      근무지 : 7군단 107정보통신단<br/>
+      복무기간 : 2019.03.18 ~ 2021.01.11<br/>
+      근무지 : 공군 작전정보통신단<br/>
       직책 : 정보보호병<br/>
     </div>
   </div>
 </div>
   <br/>
-  <h2 align="left">
-    Reference 📜
-  </h2>
-  <div align="left">
-    <h3>Title : 임계치 구현 기반 부채널분석 대응기법 효율성 분석 (최종연구보고서)</h3>
-    제출기관 : 국가보안기술연구소<br/>
-    위탁연구기관 : 우석대학교 산학협력단<br/>
-    <h3>Title : A Study on Vulnerabilities of Linux Password and Countermeasures</h3>
-    (S. Kim and T. Cho, "A Study on Vulnerabilities of Linux Password and Countermeasures," CUTE 2019. paper No.9, 2019.)<br/>
-    DOI: 10.1007/978-981-15-9343-7_9<br/>
-  <h3>Title : Shadow 파일 조작을 통한 리눅스 Sudoer의 위장공격에 대한 연구</h3>
-    (A Study on Impersonation Attack of Linux Sudoers Through Shadow File Manipulation)<br/>
-  DOI : 10.3745/KTCCS.2020.9.7.149<br/>
-    
-  </div>
+
 <h2 align="left">BOJ Score</h2><br/><br/>
   
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=yaa0529)](https://solved.ac/yaa0529)
