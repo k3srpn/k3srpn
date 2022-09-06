@@ -11,7 +11,7 @@
   🍼 Birth Date : 1997.12.13<br/>
   📔 University : Woosuk Univ.<br/>
   🖥️ Develop OS : Windows, Linux, Mac OS <br/>
-  💌 E-mail : k3srpn@kakao.com<br/>
+  💌 E-mail : k3srpn@gmail.com<br/>
   </div>
 <h2 align="left">Tech Stack 🖋</h2>
   <h3>I can this tech !!!</h3><br/>
